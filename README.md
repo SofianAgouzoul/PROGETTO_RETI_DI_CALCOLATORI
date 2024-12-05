@@ -9,4 +9,4 @@ In particolare, il server genera i meteoriti, ovvero i pacchetti UDP, e li invia
 client che dovrà spostarsi all’interno della griglia di gioco per evitare eventuali
 collisioni.
 La griglia viene visualizzata lato server, lato client possono essere immessi i comandi di gioco, di cui:
-WASD per il movimento e Q per uscire dalla partita.
+WASD per il movimento e Q per uscire dalla partita..
